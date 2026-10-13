@@ -10,8 +10,7 @@ package praktikum_1;
 	        System.out.println(" Program Menghitung Harga Total Tanah");
 	        System.out.print("Masukkan luas tanah (m2): ");
 	        
-	        tanah.luas = input.int();
-
+	        tanah.luas = input.nextInt();
 	        System.out.println("Harga total tanah Sinta adalah: Rp. " + tanah.getHargaTotal());
 	    }
 	}
