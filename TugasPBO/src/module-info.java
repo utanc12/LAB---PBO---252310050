@@ -4,5 +4,5 @@
 /**
  * 
  */
-module QUIZ {
+module TugasPBO {
 }
